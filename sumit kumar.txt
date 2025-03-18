@@ -1,0 +1,27 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is DAD9-46DE
+
+ Directory of C:\Work
+
+03/18/2025  01:33 PM    <DIR>          .
+03/18/2025  01:33 PM                91 # create A-one_two.bat
+03/18/2025  01:30 PM    <DIR>          a
+03/18/2025  01:33 PM             1,247 Consol Log.txt
+03/18/2025  01:08 PM               369 PC-D208-PC021.txt
+03/18/2025  01:20 PM    <DIR>          Test
+               3 File(s)          1,707 bytes
+               3 Dir(s)  806,853,685,248 bytes free
+
+C:\Work>type PC-D208-PC021.txt
+This Will contain Information about this computer
+As of Wed March 12 this is the information
+
+   IPv4 Address. . . . . . . . . . . : 192.168.208.74(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, March 12, 2025 3:00:07 AM
+   Lease Expires . . . . . . . . . . : Wednesday, March 19, 2025 3:02:02 AM
+C:\Work>
